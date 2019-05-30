@@ -11,6 +11,6 @@ Python module that scrapes Google Image Search images, stores them to specified 
 # Instructions
 To run this module, download 'scrapeImages.py' to your local drive, open up command line, then enter:
 
-  python scrapeImages.py --search [IMAGE SEARCH TERM] --num_images [# OF IMAGES TO DOWNLOAD] --directory [DIRECTORY TO SAVE IMAGE FILES TO] --prediction ['1' if you'd like VGG predictions to be included in filename, otherwise '0']
+  python scrapeImages.py --search [IMAGE SEARCH TERM] --num_images [# OF IMAGES TO SCRAPE] --directory [DIRECTORY TO SAVE IMAGE FILES TO] --prediction ['1' if you'd like VGG predictions to be included in filename; otherwise '0']
   
 # note: code inspired by https://stackoverflow.com/questions/20716842/python-download-images-from-google-image-search
