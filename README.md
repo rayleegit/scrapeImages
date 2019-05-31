@@ -13,4 +13,4 @@ To run this module, download 'scrapeImages.py' to your local drive, open up comm
 
   python scrapeImages.py --search [IMAGE SEARCH TERM] --num_images [# OF IMAGES TO SCRAPE] --directory [DIRECTORY TO SAVE IMAGE FILES TO] --prediction ['1' if you'd like VGG predictions to be included in filename; otherwise '0']
   
-## note: code inspired by https://stackoverflow.com/questions/20716842/python-download-images-from-google-image-search and https://www.learnopencv.com/keras-tutorial-using-pre-trained-imagenet-models/
+### note: code inspired by https://stackoverflow.com/questions/20716842/python-download-images-from-google-image-search and https://www.learnopencv.com/keras-tutorial-using-pre-trained-imagenet-models/
