@@ -1,5 +1,5 @@
 # scrapeImages
-Python module that scrapes Google Image Search images, stores them to specified local directory, and optionally adds VGG image classification model prediction to the filename.
+Python module that scrapes Google Image Search images, stores them to specified local directory, and optionally adds VGG image classification model top prediction (using pre-trained ImageNet weights) to the filename.
 
 # Requirements: 
 ## Python 3.7
