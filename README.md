@@ -3,10 +3,11 @@ Python module that scrapes Google Image Search images, stores them to specified 
 
 # Requirements: 
 ## Python 3.7
-### w/ the following packages:
-#### bs4, requests, re, urllib, os, argparse, sys, json
-### optional packages for running VGG image classification model:
-### tensorflow, keras, matplotlib, numpy, pil, io
+w/ the following packages:
+bs4, requests, re, urllib, os, argparse, sys, json
+
+optional packages for running VGG image classification model:
+tensorflow, keras, matplotlib, numpy, pil, io
 
 # Instructions
 To run this module, download 'scrapeImages.py' to your local drive, open up command line, then enter:
